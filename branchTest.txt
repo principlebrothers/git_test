@@ -1,0 +1,1 @@
+console.log("The days of ignorance are over!")
